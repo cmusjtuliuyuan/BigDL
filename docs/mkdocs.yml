@@ -20,9 +20,26 @@ pages:
   - Known Issues: UserGuide/known-issues.md
 - Python Support: 
   - Python Support: PythonSupport/python-support.md
-  - Python Tutorial: PythonSupport/Python-turtorial.md
+  - Python Tutorial: PythonSupport/python-turtorial.md
 - API Docs:
   - Scala Docs: APIdocs/scaladoc.md
   - Python API Docs: APIdocs/python-api-doc.md  
+  - NN:
+    - Functional API: APIdocs/layers/nn/Merged_md/Functional_API.md
+    - Pooling Layers: APIdocs/layers/nn/Merged_md/Pooling_Layers.md
+    - Merge Layers: APIdocs/layers/nn/Merged_md/Merge_Layers.md
+    - Non-linear Activations: APIdocs/layers/nn/Merged_md/Non-linear_Activations.md
+    - Loss Functions: APIdocs/layers/nn/Merged_md/Loss_Functions.md
+    - Containers: APIdocs/layers/nn/Merged_md/Containers.md
+    - Distance Functions: APIdocs/layers/nn/Merged_md/Distance_Functions.md
+    - Recurrent Layers: APIdocs/layers/nn/Merged_md/Recurrent_Layers.md
+    - Normalization Layers: APIdocs/layers/nn/Merged_md/Normalization_Layers.md
+    - Utilities: APIdocs/layers/nn/Merged_md/Utilities.md
+    - Simple Layers: APIdocs/layers/nn/Merged_md/Simple_Layers.md
+    - Dropout Layers: APIdocs/layers/nn/Merged_md/Dropout_Layers.md
+    - Convolution Layers: APIdocs/layers/nn/Merged_md/Convolution_Layers.md
+    - Embedding Layers: APIdocs/layers/nn/Merged_md/Embedding_Layers.md
+  - Optim:
+    - Metrics: APIdocs/layers/optim/Merged_md/Metrics.md
 - Powered by: powered-by.md
 
